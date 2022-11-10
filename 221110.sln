@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkMaraton2019", "BukkMaraton2019\BukkMaraton2019.csproj", "{6C66C41E-CE85-4A71-BA81-3845FAE34C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkMaraton2019GUI", "BukkMaraton2019GUI\BukkMaraton2019GUI.csproj", "{A26FE8AE-710F-48DE-A022-0A2468EA30FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C66C41E-CE85-4A71-BA81-3845FAE34C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C66C41E-CE85-4A71-BA81-3845FAE34C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C66C41E-CE85-4A71-BA81-3845FAE34C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C66C41E-CE85-4A71-BA81-3845FAE34C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26FE8AE-710F-48DE-A022-0A2468EA30FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26FE8AE-710F-48DE-A022-0A2468EA30FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26FE8AE-710F-48DE-A022-0A2468EA30FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26FE8AE-710F-48DE-A022-0A2468EA30FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AF0B812-1ABC-4E09-B513-A3C7C05E2C80}
+	EndGlobalSection
+EndGlobal
